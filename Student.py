@@ -20,7 +20,7 @@ p2 = Student()
 p2.name = "Khan"
 p2.age = 18
 
-# access attributes
+# access attributes - its my work
 print(p1.name)
 print(f"{p2.name} is {p2.age} years old")
 p1.eat()
